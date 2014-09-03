@@ -15,3 +15,5 @@ module BSpec
     TestObject.new(expression)
   end
 end
+
+include BSpec
