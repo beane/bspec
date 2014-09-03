@@ -1,5 +1,2 @@
-class BSpec
-  def self.version
-    '0.0.1'
-  end
+module BSpec
 end
